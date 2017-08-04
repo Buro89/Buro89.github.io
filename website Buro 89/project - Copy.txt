@@ -1,0 +1,111 @@
+<html>
+
+<head>
+<title>Onderzoek over Verwarde Personen</title>
+</head>
+
+<body bgcolor=#E0FFFF text=#40 link="800080">
+
+
+<table  width="100%" height="134" bgcolor=#F5DEB3  cellspacing="0">
+<td height="59">
+  <p align="right">
+  <font color=#800000><b><font size="4"><font face="AgentConDB">info[A]onvoorspelbareburger.nl</font></b></font>
+    <p align="left">
+  <font color=#800000><b><font size="5"><font face="AgentConDB">&nbsp;<img border="0" src="file:///H:/DOCS/Max%20Planck/zelfstudie/Side%20project%20mensenrechten%20en%20pp/project/matrix.bmp" width="111" height="146">
+  p[project] = (1 - DE VOORSPELBARE BURGER)</font></font></b></font></font>
+</table>
+
+<table  width="100%" height="48" cellspacing="1">
+<tr>
+<td align="center" width="160" height="44" bgcolor=#D2B48C border="2"> <a href="index.html"><font size="5"><font face="Abadi MT Condensed Extra Bold"<center>HOME</font></a>
+
+<td align="center" width="160" height="44" bgcolor=#D2B48C border="1"> <a href="project.html"><font size="5"><center><font face="Abadi MT Condensed Extra Bold" color="#FFFFFF">PROJECT</font></font></a>
+
+  </center>
+
+<td align="center" width="160" height="44" bgcolor=#D2B48C border="2"> <a href="news.html"><font size="5"><font face="Abadi MT Condensed Extra Bold"><center>NEWS</font></a>
+
+<td align="center" width="160" height="44" bgcolor=#D2B48C border="2"> <a href="participate.html"><font size="5"><font color=#8B008B><font face="Abadi MT Condensed Extra Bold"><center>PARTICIPATE</font></a>
+
+<td align="center" width="160" height="44" bgcolor=#D2B48C border="1"> <a href="calendar.html"><font size="5"><font face="Abadi MT Condensed Extra Bold"><center>CALENDAR</font></a>
+
+<td align="center"  width="160" height="44" bgcolor=#D2B48C border="2"> <a href="researcher.html"><font size="5"><font color=#8B008B><font face="Abadi MT Condensed Extra Bold"><center>ABOUT ME</font></a>
+
+</table>
+
+<H1><font face="AgentConDB">De Onvoorspelbare Burger: Perspectieven op Verwarde Personen</a></H1>
+<p><p><img border="1" src="file:///H:/PHOTOS/WP_006670.jpg" align="top"  width="266" height="205">
+<br><br>
+<DIV STYLE="line-height:24pt"><font face="Georgia" size="4">Perspectieven op Verwarde Personen is een onderzoeksproject gestart door
+  de sociologe Karlijn Roex, uit 
+een mengsel van fascinatie en onbehagen over de term 'verwarde personen'. Met
+  een messcherpe <i>outsider</i> blik daagt Karlijn vanzelfsprekend geworden praktijken en aannames
+uit.<br>
+<H3><a href="www.tijdschriftdeviant.nl/315-deviazicht-2016">'De psychiatrie is de spiegel van de maatschappij'</a></H3>
+Het thema 'verwarde personen' is niet los te denken van gedwongen psychiatrie. Er wordt immers gediscussieerd over de vraag
+of het niet makkelijker moet worden gemaakt om <a href="nos.nl/artikel/2156137-kamer-tegen-gedwongen-observatie-verwarde-personen.html">verwarde mensen makkelijker tegen hun wil
+op te vangen</a>. Tevens is er een <a href="https://www.zorgvisie.nl/kwaliteit/nieuws/2017/2/wet-verplichte-ggz-aangenomen-/">nieuwe wet</a>
+aangenomen die dwangbehandeling makkelijker moet maken. De psychiatrie is de spiegel van de maatschappij, die al inmiddels
+decennialang een toenemend 'wij'-'zij' denken laat zien.<br>
+
+
+<H3><a href="www.tijdschriftdeviant.nl/315-deviazicht-2016">Dwang in de psychiatrie aan het eind van haar tijden?</a></H3>
+Het rammelt rond het thema 'dwang in de psychiatrie', althans in internationale discussies. Er is momenteel een
+discussie gaande tussen verschillende partijen in de Verenigde Naties over de vraag of gedwongen psychiatrie nog wel kan anno nu.
+Er wordt dan niet persé gedacht aan een onguur, vies gesticht in Guatemala, maar ook aan de verzorgde gesloten afdeling in Nederland. 
+Zo heeft in 2013 de Speciale Rapporteur over Marteling Juan E. Méndez (Verenigde Naties) zich <a href="www.ohchr.org/Documents/HRBodies/HRCouncil/RegularSession/Session22/A.HRC.22.53_English.pdf">kritisch</a>
+uitgelaten over dwang in de psychiatrie. Hij stelt dat dwangopname of -behandeling wegens een psychiatrische aandoening nooit
+geoorloofd is. Niet alle partijen in de VN zijn het daarmee eens, en ook de <a href="www.wpanet.org/uploads/Latest_News/News_from_WPA_Sections/attach%2003.pdf">Amerikaanse en Wereld psychiaters verenigingen</a>
+(APA en WPA) zijn het er niet mee eens. In elk geval is de discussie flink gaande op de hoogste niveaus, terwijl we juist in de samenleving
+de roep om meer veiligheid en de intolerantie jegens afwijkend gedrag zien toenemen.<p>
+
+<H3>Leren van de toenemende aantallen</H3>
+Wat zeggen deze kwesties over onze samenleving als geheel? Wat zegt de <a href="http://www.zorgvisie.nl/kwaliteit/nieuws/2016/4/aantal-incidenten-met-verwarde-personen-met-65-procent-toegenomen-/">toename
+in het aantal meldingen over verwarde personen</a> over onze samenleving? Is er een echte toename in het aantal 'incidenten'? Of zijn we sneller de
+autoriteiten erbij gaan halen, waardoor het eerder geregistreerd wordt? Heeft de toename iets te maken met de naweeën van een sterke
+economische crisis en bezuinigingsbeleid?<p>
+
+<H3>Privacyvraagstukken</H3>
+Er wordt tevens geroepen dat er meer informatie-uitwisseling moet komen tussen GGZ, politie en andere instanties zoals woningcorporaties.
+Dat is lang belemmerd door een gebrek aan samenwerking, maar ook door privacyregels. Daar wordt in een 
+<a href="https://www.npo.nl/nieuwsuur/04-05-2016/VPWON_1248457">tv-uitzending</a> door sommigen over gesproken alsof deze regels alleen maar
+vervelend zijn. Nieuw beleid moet meer informatie-uitwisseling mogelijk maken tussen de instanties. Maar wat voor gevolgen heeft dit
+voor de privacy van mensen die verward zijn geweest? Deze vraag wordt helemaal prangend als gekeken wordt naar het feit dat mensen al
+op basis van een verleden van 'verward gedrag', soms geweigerd worden voor <a href="nos.nl/nieuwsuur/artikel/2154349-grondrecht-op-vrije-voortplanting-kan-wel-worden-beperkt.html">IVF behandelingen</a> of
+<a href="https://www.rijksoverheid.nl/actueel/nieuws/2016/03/30/tweede-kamer-stemt-voor-uitbreiding-rotterdamwet">huisvestingsvergunningen</a> geweigerd kunnen krijgen.
+
+<H3>Zowel de veelgehoorde als de onderbelichte perspectieven komen aan bod</H3>
+
+In haar project beoogt ze het gesprek aan te gaan over dit onderwerp met iedereen, of mensen nu
+beroepsmatig bezig zijn met 'verwarde personen' of zelf een keertje 'zo eentje' geweest zijn. Ook mensen die zich op een ander gebied
+van veiligheid of zorg bezighouden hebben waarschijnlijk wat interessants te zeggen over dit thema.<br><br>
+Momenteel verricht Karlijn interviews voor haar manuscript. Zij betreedt de interviews met een open blik, ongeacht de opinie, geschiedenis of positie van haar gesprekspartner.
+<br><i>Bent u geïnteresseerd in een interview?</i> <a href="contact.html">Mail haar dan gerust.</a> 
+<br><br>In het kader van de dialoog en reflectie zullen er ook evenementen worden georganiseerd die op deze website en nieuwsbrief worden bekendgemaakt.
+<br><br>
+<i><b>Aboneer u hier op de nieuwsbrief</b></i><br></DIV>
+<table>
+
+<form method="post" action="mailto:roex@mpifg.de">
+Naam: <input type="text" name="naam" size="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>
+Emailadres: <input type="text" name="emailadres" size="54"><br>
+<input type="submit" value="Verzend">
+</form>
+<br>U kunt natuurlijk ook direct <a href="index.html">contact</a> met Karlijn opnemen.<p>
+<br>
+<font face="AgentConDB">
+<p>
+
+<br>
+<font color="#E0FFFF"> verwarde personen verwarde personen verwarde personen verwarde personen verwarde personen 
+verwarde persoon verwarde persoon verwarde persoon verwarde persoon verwarde persoon verwarde persoon 
+verward gedrag verward gedrag  verward gedrag  verward gedrag  verward gedrag  verwarde man
+ verwarde man
+
+
+ 
+</font>
+
+</body>
+
