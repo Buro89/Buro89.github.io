@@ -32,6 +32,22 @@ h3 {
 	color: #000000;
 }
 
+h3 a:link {color: #000000;
+	text-decoration: none;
+border-bottom: 1px green;
+	}
+
+	h3 a:hover {color: #FF9999;
+	text-decoration: none;
+border-bottom: 1px green;
+	}
+
+	h3 a:visited {color: #FF9999;
+	text-decoration: none;
+border-bottom: 1px green;
+	}
+
+
 p {
 	font-family: 'Alegreya', sans-serif;
 	color: #F5F5F5;
@@ -41,6 +57,22 @@ p {
 	text-indent: 2%;
 	text-align: justify;
 }
+
+p a:link {color: #FF9999;
+	text-decoration: none}
+
+p a:active {color: #FF9999;
+	text-decoration: none}
+
+
+p a:hover {color: #FFFFFF;
+	text-decoration: none}
+
+
+p a:visited {color: #FF9999;
+	text-decoration: none}
+
+
 
 img {
 	max-width: 100%;
@@ -201,7 +233,7 @@ nav ul li a:hover {
 }
 
 #dienst2 {
-	background-color: #DF8B6F;
+	background-color: #F9DDD4;
 }
 
 
